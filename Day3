@@ -1,0 +1,55 @@
+Core revenue model (founder)
+Slot-based ground rental (₹1,500–5,000/hr for box/turf pitches) anchors cash flow. Layer on annual memberships for clubs, corporate packages, and coaching academies for predictable recurring income.
+
+Ancillary revenue streams
+F&B concessions, equipment rentals, merchandise, video analysis subscriptions (₹499–999/mo per player), and event hosting for corporate tournaments can add 25–40% above base rentals.
+
+High riskSeasonal demand volatility
+Monsoon months (Jun–Sep in India) can slash utilisation to under 20% for outdoor grounds. Counter with indoor net lanes, simulator bays, or covered pitches to maintain year-round revenue.
+
+High riskLand & lease dependency
+Rental or leasehold land is the single biggest financial exposure. Negotiate minimum 10-year leases with renewal options before investing in pitch development. Cap lease cost at under 25% of projected revenue.
+
+Med riskCustomer acquisition & retention
+Partner with schools, colleges, and corporate HR teams in year one to guarantee bulk bookings. Offer 10-session packs at a 15% discount to lock in repeat users before spending on brand marketing.
+
+Lower riskFranchise / licensing play
+Once one location reaches steady-state (60%+ utilisation), a franchise model or management contract for third-party grounds scales brand without heavy CapEx. Target Tier-2 cities with less competition first.
+
+Developer
+Booking & payments engine
+Deploy a slot-based booking system (build on open-source like Calendso or buy Sportigo/GroundBooking SaaS). Must support real-time slot locking, dynamic pricing (peak/off-peak), advance payment via UPI/Razorpay, and cancellation policies with automated refunds.
+
+Security & access control
+QR code or OTP-based entry tied to booking IDs eliminates manned gates. IP camera coverage + motion alerts reduce theft and vandalism. Cloud-stored footage (7-day rolling) is adequate and cost-effective for most venues.
+
+Facility & maintenance ops
+Use a simple CMMS (Computerised Maintenance Management System — Limble or Maintainly) to schedule pitch rolling, watering, net inspections, and floodlight checks. Tie maintenance windows to blocked slots in the booking engine automatically.
+
+Analytics & revenue intelligence
+Connect booking data to a simple BI dashboard (Metabase is free, open-source). Track slot utilisation by hour/day, no-show rates, revenue per pitch, and customer LTV. Use this to tune dynamic pricing and identify underbooked windows for promotional offers.
+
+Player tech as a differentiator
+Install a fixed camera on a bowling machine mount for automated session recordings. Offer video + AI performance analysis (e.g., via Cricket.io or a custom GPT-Vision pipeline) as a premium add-on. This drives loyalty and justifies a higher slot rate.
+
+Scale architecture from day one
+Even a single ground should be built on multi-location-ready software (multi-venue booking, centralised admin panel, role-based staff access). Adding a second location then costs configuration days, not development months.
+
+Common
+Demand is structural, not cyclical
+IPL, WPL, and school cricket programmes have created sustained grassroots demand. Weekend and after-work slots are over-subscribed in most metros. This is not a fad — organised sports infrastructure lags demand significantly across India.
+
+Where competition is thin
+Metros (Mumbai, Bengaluru, Delhi) are increasingly crowded with box-cricket formats. Tier-2 cities — Indore, Lucknow, Coimbatore, Bhubaneswar — have strong cricket culture but few organised, well-maintained venues. That gap is the entry opportunity.
+
+CapEx realities & staged entry
+A turf box-cricket facility (4–6 pitches) costs ₹30–80 lakh all-in (land excluded). A full-size ground with floodlights can exceed ₹2 crore. Start with a hybrid model — 2 outdoor turf pitches + 2 covered net lanes — to de-risk the initial investment while testing local demand.
+
+Regulatory & compliance checklist
+Obtain a trade licence, FSSAI registration (if serving food), noise compliance NOC for floodlit evening use, and fire safety clearance. In some states, a sports facility licence under the state sports authority is also required. Budget 3–6 months for clearances.
+
+Partnerships that de-risk launch
+Pre-sign MoUs with 3–5 local corporate HR teams, 2 schools, and a cricket coaching academy before opening. This creates baseline utilisation and word-of-mouth before you spend on marketing. Offer founding member rates for the first 6 months.
+
+Competitive moats to build early
+Surface quality, floodlit hours, and reliable online booking are the three most-cited reasons players switch grounds. Own these three before competitors do and you create switching costs that are hard to overcome on price alone.
