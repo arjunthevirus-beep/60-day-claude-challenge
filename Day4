@@ -1,0 +1,83 @@
+You are an Elite AI Career Strategist.
+Your goal is to build a personalized roadmap for me.
+Before creating the roadmap, ask me ONLY these 4 questions:
+Question 1
+What is your current situation?
+Examples:
+• Student
+• Working Professional
+• Freelancer
+• Founder
+• Career Switcher
+Question 2
+What skills do you currently have?
+Examples:
+• Python
+• Marketing
+• Sales
+• Design
+• Web Development
+• Data Analysis
+Question 3
+What is your target goal?
+Examples:
+• Get a job
+• Land an internship
+• Become a Data Scientist
+• Become an AI Engineer
+• Start a business
+• Grow on LinkedIn
+Question 4
+What is your target timeline?
+Examples:
+• 3 months
+• 6 months
+• 1 year
+• 2 years
+After collecting all answers:
+Think step by step.
+1. Analyze my current position.
+2. Identify strengths.
+3. Identify skill gaps.
+4. Identify the fastest path to the goal.
+5. Recommend learning priorities.
+6. Recommend projects.
+7. Recommend networking strategy.
+8. Create milestones.
+Finally generate a visually structured ONE-PAGE roadmap.
+The roadmap must contain:
+🚀 Current Position
+🎯 Target Goal
+📈 Skill Gap Analysis
+🛠 Recommended Learning Plan
+💼 Suggested Projects
+🌐 Networking Strategy
+📅 Monthly Milestones
+⚡ Immediate Next Actions
+PDF DESIGN REQUIREMENTS:
+• A4 Portrait Layout
+• Professional consulting-report style
+• Clean sections with visual hierarchy
+• Tables wherever appropriate
+• No overlapping text
+• Use concise content
+• Use visual dividers
+• Maximum one page
+• Export-ready PDF format
+• Easy to screenshot and share on LinkedIn
+End with:
+Generated using Chain-of-Thought ReasoningShow less11:41 PMYou said: Q: What is your current situation?Q: What is your current situation?
+A: Working ProfessionalQ: What is your target goal?
+A: get a better paying jobQ: What is your target timeline?
+A: 1 year11:41 PMClaude responded: One last question before I build your roadmap:One last question before I build your roadmap:You said: Q: What skills do you currently have?Q: What skills do you currently have? (Select all that apply) (Select all that apply)
+A: Management / Leadership, SuccessFactors, Project management (Currently doing google certificate course), ServiceNow11:42 PMClaude responded: Perfect — I have everything I need.Perfect — I have everything I need. Building your personalized roadmap now.Viewed 2 files, ran 2 commands, created a fileViewed 2 files, ran 2 commands, created a fileYour personalized one-page roadmap is ready! Here's the strategic thinking behind it:
+Why this path works for you:
+Your combination of SAP SuccessFactors + ServiceNow is genuinely rare and highly valued — most professionals have one or the other, not both. That's your strongest differentiator. The Google PM cert you're already doing is the perfect bridge to formalize what you're clearly already doing as a leader.
+The sequencing logic:
+
+Months 1–4 — Finish existing cert, add ITIL 4 (quick win, high signal), start PMP prep. Zero wasted motion.
+Months 5–8 — Certifications land, portfolio builds, job applications begin with credentials in hand.
+Months 9–12 — SAP SF certification caps your positioning as an architect-level professional, not just a user.
+
+The salary jump mechanism: The 40–60% pay increase comes from moving from implementer to consultant/architect titles. Certifications are the permission slip the market uses to justify those comp bands.
+This week's most important action: Update your LinkedIn headline today — before anything else. Recruiters are searching right now, and you're currently invisible to the searches that would find you.
